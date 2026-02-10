@@ -58,6 +58,8 @@ ENDC = "\033[0m"  # Resets color
 
 
 def main():
+    time.sleep(3.5)
+    
     render("hey")
     time.sleep(2)
     render("hey!")
