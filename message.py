@@ -104,7 +104,7 @@ def main():
     time.sleep(1)
     render(f"{RED} will you be my valentine <3 ? {ENDC}", 0.4)
     time.sleep(1)
-    render_figlet_char("yes []    no []")
+    render_figlet_char("yes [ ]    no [ ]")
 
 
 if __name__ == "__main__":
